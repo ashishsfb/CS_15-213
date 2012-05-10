@@ -1,0 +1,7 @@
+When a problem comes along, you must zip it!
+5 10 15 20 25 30
+5 -895
+2 158 AustinPowers
+rusdkq
+3 6 5 4 2 1
+22

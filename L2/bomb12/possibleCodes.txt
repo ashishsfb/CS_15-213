@@ -1,0 +1,10 @@
+> Found in bomb-strings.txt
+AustinPowers
+ravens
+isrveawhobpnutfg
+
+> 0x402698 in string = @&˜ (from 2nd line of <phase_1>:
+
+> alternatively, 0x402698 = 0d4204184 which could be the key
+
+> 

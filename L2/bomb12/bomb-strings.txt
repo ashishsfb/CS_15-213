@@ -1,0 +1,278 @@
+/*
+ * Text File created by executing "strings bomb >> bomb-strings.txt"
+ */
+
+/lib64/ld-linux-x86-64.so.2
+_Jv_RegisterClasses
+__gmon_start__
+libc.so.6
+strcpy
+stdout
+connect
+getenv
+__strtol_internal
+fgets
+memcpy
+puts
+sleep
+socket
+fflush
+alarm
+write
+fprintf
+stdin
+signal
+read
+strcasecmp
+bcopy
+sscanf
+memset
+gethostbyname
+gethostname
+sprintf
+stderr
+__ctype_b_loc
+__errno_location
+exit
+fopen
+__libc_start_main
+close
+GLIBC_2.3
+GLIBC_2.2.5
+AUATUSH
+X[]A\A]
+t'97~
+AUATUSH
+[]A\A]
+SHc=
+***t
+runc
+ated
+l$ H
+l$ H
+l$ H
+AUATUSH
+<	ff
+; u	
+[]A\A]
+AWAVAUATUSH
+Erro
+r: C
+lien
+t un
+able
+ to 
+crea
+te s
+E ockef
+Erro
+r: D
+NS i
+s un
+able
+ to 
+reso
+lve 
+E Auto
+E$lab 
+E(serv
+E,er a
+E0ddref
+E4ss
+Erro
+r: U
+nabl
+e to
+ con
+nect
+ to 
+the 
+E Auto
+E$lab 
+E(servf
+E,er
+Erro
+r: R
+esul
+t st
+ring
+ too
+ lar
+ge. 
+E Incr
+E$ease
+E( SUB
+E,MITR
+E0_MAX
+E4BUF
+Erro
+r: R
+esul
+t st
+ring
+ con
+tain
+s an
+E  ill
+E$egal
+E( or 
+E,unpr
+E0inta
+E4ble 
+E8char
+E<actef
+E@r.
+Erro
+r: C
+lien
+t un
+able
+ to 
+writ
+e to
+E  the
+E$ Aut
+E(olab
+E, ser
+E0ver
+Erro
+r: C
+lien
+t un
+able
+ to 
+read
+ fir
+E st h
+E$eade
+E(r fr
+E,om A
+E0utol
+E4ab s
+E8ervef
+\$ H
+Erro
+r: C
+lien
+t un
+able
+ to 
+read
+ sta
+E tus 
+E$mess
+E(age 
+E,from
+E0 Aut
+E4olab
+E8 ser
+E<ver
+Erro
+r: C
+lien
+t un
+able
+ to 
+read
+ hea
+E ders
+E$ fro
+E(m Au
+E,tola
+E0b se
+E4rver
+[]A\A]A^A_
+ATUSH
+Erro
+r: C
+lien
+t un
+able
+ to 
+crea
+te s
+C ockef
+Erro
+r: D
+NS i
+s un
+able
+ to 
+reso
+lve 
+C serv
+C$er a
+C(ddref
+C,ss
+Erro
+r: U
+nabl
+e to
+ con
+nect
+ to 
+servf
+C er
+[]A\
+%s: Error: Couldn't open %s
+Usage: %s [<input_file>]
+That's number 2.  Keep going!
+Halfway there!
+Good work!  On to the next...
+Welcome to my fiendish little bomb. You have 6 phases with
+which to blow yourself up. Have a nice day!
+Phase 1 defused. How about the next one?
+So you got that one.  Try this one.
+When a problem comes along, you must zip it!
+Wow! You've defused the secret stage!
+ravens
+bluefish.ics.cs.cmu.edu
+bonito.ics.cs.cmu.edu
+cobia.ics.cs.cmu.edu
+flounder.ics.cs.cmu.edu
+grouper.ics.cs.cmu.edu
+kingfish.ics.cs.cmu.edu
+mackerel.ics.cs.cmu.edu
+marlin.ics.cs.cmu.edu
+pompano.ics.cs.cmu.edu
+sailfish.ics.cs.cmu.edu
+seabass.ics.cs.cmu.edu
+seatrout.ics.cs.cmu.edu
+swordfish.ics.cs.cmu.edu
+tarpon.ics.cs.cmu.edu
+tuna.ics.cs.cmu.edu
+Well...
+OK. :-)
+Invalid phase%s
+%d %d %d %d %d %d
+Initialization error:
+Error: Premature EOF on stdin
+GRADE_BOMB
+Error: Input line too long
+exploded
+defused
+%d:%s:%d:%s
+BOOM!!!
+The bomb has blown up.
+%d %d %s
+AustinPowers
+So you think you can stop the bomb with ctrl-c, do you?
+Initialization error: Running on an illegal host [1]
+Initialization error: Running on an illegal host [2]
+ERROR: Input string is too large.
+Your instructor has been notified.
+Curses, you've found the secret phase!
+But finding it and solving it are quite different...
+Congratulations! You've defused the bomb!
+Your instructor has been notified and will verify your solution.
+Program timed out after %d seconds
+GET /%s/submitr.pl/?userid=%s&lab=%s&result=%s&submit=submit HTTP/1.0
+Error: HTTP request failed with error %d: %s
+%%%02X
+%s %d %[a-zA-z ]
+autolab.cs.cmu.edu
+AUTORESULT_STRING=%s
+bomblab
+15213-s10
+vmurali@ANDREW.CMU.EDU
+isrveawhobpnutfg
